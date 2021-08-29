@@ -12,7 +12,7 @@ As someone who started not knowing what I wanted to do for my future, getting in
 - 📫 How to reach me: glaysa.df@gmail.com
 - 😄 Pronouns: She/her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaysa&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaysa&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
