@@ -12,20 +12,11 @@ As someone who started not knowing what I wanted to do for my future, getting in
 - 📫 How to reach me: glaysa.df@gmail.com
 - 😄 Pronouns: She/her
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glaysa&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# 
 
-
-<!--
-**Glaysa/Glaysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/glaysa">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaysa&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
+  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=glaysa&row=2&column=3&no-bg=true&theme=juicyfresh&margin-w=10&margin-h=10&no-frame=true"/>
+</a>
+</p>
