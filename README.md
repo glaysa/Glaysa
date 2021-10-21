@@ -13,10 +13,3 @@ As someone who started not knowing what I wanted to do for my future, getting in
 - 😄 Pronouns: She/her
 
 # 
-
-<p align="center">
-<a href="https://github.com/glaysa">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaysa&layout=compact&langs_count=8&theme=merko&hide_border=true"/>
-  <img height="200em" src="https://github-profile-trophy.vercel.app/?username=glaysa&row=2&column=3&no-bg=true&theme=juicyfresh&margin-w=10&margin-h=10&no-frame=true"/>
-</a>
-</p>
