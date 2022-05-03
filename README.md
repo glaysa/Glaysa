@@ -5,6 +5,7 @@ I don't know when it started, but as far as I can remember I was always and stil
 - 💻 I'm currently working on my bachelor project with [Ways AS](https://ways.no/)
 - 📫 You can contact me at [glaysa.df@gmail.com](mailto:glaysa.df@gmail.com)
 - 🌍 I'm based in Trondheim, Norway.
+- ⚡ During my free time, I like to mess around with Blender: creating basic 3D models and scenes.
 
 ### Tools and Languages
 
