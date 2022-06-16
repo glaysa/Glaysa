@@ -2,7 +2,6 @@
 
 I don't know when it started, but as far as I can remember I was always and still am fascinated by technology. With technology, the possibilities are endless. As someone who started not knowing what I wanted to do for my future, getting into technology field, is something I am very pleased to have chosen as my career path.
 
-- 💻 I'm currently working on my bachelor project with [Ways AS](https://ways.no/)
 - 📫 You can contact me at [glaysa.df@gmail.com](mailto:glaysa.df@gmail.com)
 - 🌍 I'm based in Trondheim, Norway.
 - ⚡ During my free time, I like to mess around with Blender: creating basic 3D models and scenes.
