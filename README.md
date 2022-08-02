@@ -8,7 +8,7 @@ I don't know when it started, but as far as I can remember I was always and stil
 
 - 💡 Fun fact 1: What got me interested into programming was because of a game, but what really made me pursue it, was the very first html element 'h1' that I was able to display for the first time in my life that said "Hello World!" in the browser. I felt like everything fell into place and thought "Yes this is it!". 😎
 
-- 💡 Fun fact 2: I am no tech genius, but with hard work and perseverance, no bug, errors or missing semicolon will stop you from deploying. 😈
+- 💡 Fun fact 2: I am no tech genius, but with hard work and perseverance (and googling skills), no bug, errors or missing semicolon can stop you from deploying. 😈
 
 ### Tools and Languages
 
